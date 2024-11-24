@@ -44,7 +44,7 @@ var result = md.render("Этот текст __выделен разрядкой_
 Пример CSS
 
 ```css
-.md-it-underline {
+.md-it-razradka {
     letter-spacing: 0.4em;
 }
 ```
