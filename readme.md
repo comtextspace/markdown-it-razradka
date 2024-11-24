@@ -46,5 +46,6 @@ var result = md.render("Этот текст __выделен разрядкой_
 ```css
 .md-it-razradka {
     letter-spacing: 0.4em;
+    margin-right: -0.4em;
 }
 ```
