@@ -1,6 +1,6 @@
 {
   "name": "@comtext/markdown-it-razradka",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Плагин для markdown-it для выделения разрядки.",
   "keywords": [
     "markdown-it-plugin",
